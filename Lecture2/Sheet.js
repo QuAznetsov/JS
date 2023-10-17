@@ -155,5 +155,5 @@
 // }
 // else
 // {
-// console.log(price)    
+// console.log(price)
 // }
